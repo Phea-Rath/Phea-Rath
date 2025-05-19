@@ -28,7 +28,7 @@ I'm a Software Developer passionate about web development. I love learning new t
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Phea-Rath&layout=compact&theme=radical)
 
 ## Connect With Me
-![LinkedIn](https://skillicons.dev/icons?i=linkedin)[](https://www.linkedin.com/in/tep-phearath-648015364?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+![LinkedIn](https://skillicons.dev/icons?i=linkedin)[Tep Phearath](https://www.linkedin.com/in/tep-phearath-648015364?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
