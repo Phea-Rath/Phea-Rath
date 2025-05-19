@@ -5,7 +5,7 @@ I'm a Software Developer passionate about web development. I love learning new t
 
 - 🔭 I’m currently working on management system
 - 🌱 I’m currently learning Laravel
-- 👯 I’m looking to collaborate on website
+- 👯 I’m looking to collaborate on website develop
 - 🤔 I’m looking for help with Clien
 - 💬 Ask me about web development
 - 📫 How to reach me: rath8629@gmail.com
